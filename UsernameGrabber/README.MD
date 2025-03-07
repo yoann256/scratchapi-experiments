@@ -10,7 +10,7 @@ Just edit the 3 in this code up there to the length of the username you want to 
 > [!CAUTION]
 > I, yoann256, am not resposible if you get banned or got limited use from Scratch/Scratch API.
 
-> [!INFORMATION]
+> [!NOTE]
 > This project is purely educational and is not affiliated in any way with the Scratch Team.
 
 ## Special thanks
