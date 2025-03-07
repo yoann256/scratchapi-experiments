@@ -2,4 +2,4 @@
 Some experiments using the Scratch API.
 
 ## Links to experiments
-[UsernameGrabber](/UsernameGrabber/)
+[UsernameGrabber](/UsernameGrabber/) by @yoann256
