@@ -1,0 +1,46 @@
+body {
+    background-color: grey;
+    padding: 0;
+    margin: 0;
+}
+
+.toolbar .toolbar-items {
+    background-color: rgba(0, 0, 0, 0.55); /* Black with 55% opacity */
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+
+.toolbar-items li {
+    margin-right: 10px;
+    width: auto;
+    overflow: visible;
+}
+
+.toolbar-items .website-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Toolbar Icons */
+
+.toolbar-items .min-icon {
+    /* height: 0.8rem; */
+    /* width: 0.8rem; */
+    
+    font-size: 1.5rem;
+}
+
+.toolbar-items .github-org {
+    height: 1.5rem !important;
+    width: 1.5rem !important;
+    overflow: hidden; /* Optional: Hide any overflowing content */
+}
+
+.toolbar-items .github-org img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* Adjust image to fit within the container */
+}
+
