@@ -44,3 +44,12 @@ body {
     object-fit: contain; /* Adjust image to fit within the container */
 }
 
+
+.normal-button {
+    background-color: #1e1e21;
+    /* font-size: 5.5rem; */
+    width: 6rem;
+    height: 3rem;
+    color: #ffffff;
+    border-color: #1e1e21;
+}
