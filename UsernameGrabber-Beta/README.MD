@@ -24,4 +24,4 @@ Obviously the Scratch Team for making the Scratch API and Scratch in general.
 Code written by me (@yoann256) and with help of ChatGPT.
 
 ## Changelog
-v1.0 - First release
+v1.047 - First beta release
