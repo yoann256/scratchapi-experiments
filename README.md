@@ -1,5 +1,7 @@
 # scratchapi-experiments
 Some experiments using the Scratch API.
+> [!NOTE]
+> Some files are obfuscated beacause of API keys, sorry about that!
 
 ## Links to experiments
 - [UsernameGrabber](/UsernameGrabber/) by @yoann256 / [UsernameGrabber Beta](/UsernameGrabber-Beta/)
